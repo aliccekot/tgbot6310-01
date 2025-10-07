@@ -25,3 +25,6 @@ pip install -r requirements.txt
 ## Запуск:
 
 python main.py
+
+# описание бота
+дублирует последние введенные сообщения "вы написали: {message.text}"
